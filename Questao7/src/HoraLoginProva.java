@@ -1,0 +1,12 @@
+import java.util.Calendar;
+
+public class HoraLoginProva {
+
+	public static void main(String[] args) {
+		Calendar cal = Calendar.getInstance();
+		System.out.println(cal.get(Calendar.HOUR));
+		
+		
+	}
+	
+}
