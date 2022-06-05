@@ -14,5 +14,11 @@ Questão 3
 R: A lista de extensões para que esses arquivos desnecessários sejam desconsiderados deve ser incluída no arquivo .gitignore.
 
 Questão 4
-R: 
+R: Para mim, o principal benefício do Scrum é o monitoramento do andamento das atividades do projeto. Através de cada reunião daily, é possível acompanhar a evolução do projeto, ver os impeditivos e pontos de melhoria, fazendo com que o projeto flua cada vez melhor. Ao meu ver, esse acompanhamento permite que eventuais problemas que aparecerem sejam rapidamente corrigidos, otimizando tempo e recursos do projeto.
+Além disso, para mim, através do Scrum ficam muito claro o planejamento inteiro do projeto, e as entregas que são esperadas, o que ao meu ver, também otimiza recursos.
+Destaco ainda a colaboração que existem através dessa metodologia, onde integrantes da equipe, de níveis distintos, se ajudam em prol do bem comum e do sucesso do projeto.
+Portanto, vejo muitos benefícios nessa metodologia que estou conhecendo durante o período de estágio na Compass.UOL.
+
+Questão 5
+R: José terá novas responsabilidades muito importantes como novo Product Owner do time. Na nova função ele será responsável por definir as funcionalidades do produto, ou seja o Backlog do Produto. Além disso, ele deverá priorizar as funcionalidades de acordo com o valor do negócios, garantindo assim que ambos estejam alinhados. José também precisará ter sensibildiade para ajustar as funcionalidades e prioridades a cada Sprint, conforme for necessário. Cabe a José também assegurar que o Backlog do Produto seja claro para todos os envolvidos e garantir que o time de desenvolvimento entenda os itens presentes no Backlog do produto. José terá ainda que definir a data de liberação e o conteúdo do Release do projeto, e aceitar ou rejeitar as entregas dos trabalhos. Ou seja, José terá grandes desafios nessa sua nova etapa profissional!
 
